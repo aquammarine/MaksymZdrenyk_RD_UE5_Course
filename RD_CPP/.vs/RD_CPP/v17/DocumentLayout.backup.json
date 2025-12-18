@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\UnrealEngineProjects\\MaksymZdrenyk_RD_UE5_Course\\RD_CPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{227C4E86-BAD2-4B1F-AB56-2AA161FF524C}|RD_CPP\\RD_CPP.vcxproj|E:\\UnrealEngineProjects\\MaksymZdrenyk_RD_UE5_Course\\RD_CPP\\RD_CPP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{227C4E86-BAD2-4B1F-AB56-2AA161FF524C}|RD_CPP\\RD_CPP.vcxproj|solutionrelative:RD_CPP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3D69A5D2-9CFF-4A62-81A3-FC133FA2F8B9}|Functions\\Functions.vcxproj|E:\\UnrealEngineProjects\\MaksymZdrenyk_RD_UE5_Course\\RD_CPP\\Functions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D69A5D2-9CFF-4A62-81A3-FC133FA2F8B9}|Functions\\Functions.vcxproj|solutionrelative:Functions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\UnrealEngineProjects\\MaksymZdrenyk_RD_UE5_Course\\RD_CPP\\RD_CPP\\main.cpp",
-              "RelativeDocumentMoniker": "RD_CPP\\main.cpp",
-              "ToolTip": "E:\\UnrealEngineProjects\\MaksymZdrenyk_RD_UE5_Course\\RD_CPP\\RD_CPP\\main.cpp",
-              "RelativeToolTip": "RD_CPP\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\UnrealEngineProjects\\MaksymZdrenyk_RD_UE5_Course\\RD_CPP\\Functions\\main.cpp",
+              "RelativeDocumentMoniker": "Functions\\main.cpp",
+              "ToolTip": "E:\\UnrealEngineProjects\\MaksymZdrenyk_RD_UE5_Course\\RD_CPP\\Functions\\main.cpp",
+              "RelativeToolTip": "Functions\\main.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-09T18:11:58.051Z",
+              "WhenOpened": "2025-12-18T14:57:31.334Z",
               "EditorCaption": ""
             }
           ]
