@@ -60,3 +60,32 @@ Thumbs.db
 /IOS/
 /TVOS/
 /HTML5/
+
+# --- Visual Studio Local Files ---
+.vs/
+*.user
+*.suo
+*.vcbkts
+*.ipch
+*.opendb
+
+# --- Build Output (The .exe and .obj files) ---
+# This covers the x64 and Debug folders in your screenshot
+[Xx]64/
+[Dd]ebug/
+[Rr]elease/
+obj/
+bin/
+
+# --- Specific Binary Extensions ---
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.dll
+
+# --- Keep these (Standard for C++ projects) ---
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
