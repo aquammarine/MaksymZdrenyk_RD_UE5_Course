@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variables", "RD_CPP\RD_CPP.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functions", "Functions\Functions.vcxproj", "{3D69A5D2-9CFF-4A62-81A3-FC133FA2F8B9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Containers", "Containers\Containers.vcxproj", "{373917BA-7C40-4433-8D19-55B4BA1C992E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3D69A5D2-9CFF-4A62-81A3-FC133FA2F8B9}.Release|x64.Build.0 = Release|x64
 		{3D69A5D2-9CFF-4A62-81A3-FC133FA2F8B9}.Release|x86.ActiveCfg = Release|Win32
 		{3D69A5D2-9CFF-4A62-81A3-FC133FA2F8B9}.Release|x86.Build.0 = Release|Win32
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Debug|x64.ActiveCfg = Debug|x64
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Debug|x64.Build.0 = Debug|x64
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Debug|x86.ActiveCfg = Debug|Win32
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Debug|x86.Build.0 = Debug|Win32
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Release|x64.ActiveCfg = Release|x64
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Release|x64.Build.0 = Release|x64
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Release|x86.ActiveCfg = Release|Win32
+		{373917BA-7C40-4433-8D19-55B4BA1C992E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
