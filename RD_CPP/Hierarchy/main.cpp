@@ -1,24 +1,24 @@
 #include "Character.h"
+#include <iostream>
 
 int main() {
-    Stats heroStats(10, 5, 7);
+    Stats heroStats(10, 5, 7, 100);
     Character hero(100, heroStats);
 
-    hero.useWeapon();
+    std::cout << "Initial state:";
+    hero.printStats();
 
     hero.pickWeapon(std::make_unique<Weapon>(25, 3.0f, "sword.png"));
 
-    hero.useWeapon();
-    hero.useWeapon();
+    auto speedBoots = std::make_unique<PassiveItem>(Stats(0, 0, 2, 20), "boots.png");
+    hero.addPassiveItem(std::move(speedBoots));
 
-    hero.update(3.0f);
-    hero.useWeapon();
+    hero.addPassiveItem(std::make_unique<PassiveItem>(Stats(0, 5, 0, 10), "ring.png"));
 
-    hero.addPassiveItem(
-        std::make_unique<PassiveItem>(Stats(2, 1, 0), "ring.png")
-    );
-
+    std::cout << "\nAfter items added:";
     hero.printStats();
+
+    hero.useWeapon();
 
     return 0;
 }

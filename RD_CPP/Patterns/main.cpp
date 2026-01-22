@@ -1,7 +1,7 @@
 #include "ConcreteSubject.h"
 #include "ConcreteObserver.h"
 
-int main(){
+int main() {
     ConcreteSubject newsAgency;
 
     ConcreteObserver user1("Alice");
